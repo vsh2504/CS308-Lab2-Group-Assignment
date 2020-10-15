@@ -20,6 +20,7 @@ int main() {
 	print(&vecA);
 	print(&vecB);
 
+    /*
 	printf("Printing vector sum\n");
 	add(vecA,vecB,&vecC);
 	print(&vecC);
@@ -27,6 +28,7 @@ int main() {
 	printf("Printing vector-element wise product, vecA*vecB\n");
 	eleProd(vecA,vecB,&vecC);
 	print(&vecC);
+    */
 
 	//printf("Printing vector-difference, vecA-vecB\n");
 	//diff(vecA, vecB, &vecC);
